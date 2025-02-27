@@ -1,10 +1,12 @@
-# Deploy a Python (Flask) web app to Azure App Service - Sample Application
+# Web Tools
 
-This is the sample Flask application for the Azure Quickstart [Deploy a Python (Django or Flask) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python). For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.
+Uma plataforma que compila micro aplicações criadas por diversos desenvolvedores para realizarem uma função bem específica e particular, facilitando dessa forma nossas vidas :)
+Ao longo de minha jornada, pude conviver com diversos desenvolvedores. Que bom seria se cada um deles pudesse criar um pequeno programa que de alguma forma, ajudasse outra pessoa. Pensando nisso, bolei o Web Tools. 
 
-Sample applications are available for the other frameworks here:
+Desenvolvido com Flask e Python. 
 
-* Django [https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart)
-* FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
+## Acesso
+[Acesso ao Web Tools, clique aqui!](https://dashboard.render.com/new/workspace) 
 
-If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+## Contato
+Deseja falar comigo, [encontre-me no linkedin](www.linkedin.com/in/marlon-andrei).
